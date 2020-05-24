@@ -1,5 +1,5 @@
 # Projects
-Repo for all the projects which I don't share the code, but I do explain the projects and what their purpose is.
+Updates on projects for which no code is shared, but for which I explain their purpose.
 
 Currently working on:
 - A custom tailored DBMS (Database Management System) for a small company
