@@ -4,11 +4,8 @@ Updates on projects for which no code is shared, but for which I explain their p
 ## Currently working on 
 ___
 
-### .::A Database application for myself to log workouts and perform calculations to predict when I should deload::..
-
-Just getting started - but here's how it's looking!
-
-![Demo](Workout_InProgress.gif)
+### An application that allows you to easily paste many pre-existing things and easily add new ones. 
+This can be emotes from Twitch/Discord, text, ASCII conversion and gifs.
 
 
 
@@ -27,8 +24,12 @@ ___
   
   ![Logs](DBMS_Logs.png)
         
+### .::A Database application for myself to log workouts and perform calculations to predict when I should deload::..
+
+Just getting started - but here's how it's looking!
+
+![Demo](Workout_InProgress.gif)
         
         
 ## On hold
 ___
-### ..::A hobby enforcing/ goal setting APP::..
