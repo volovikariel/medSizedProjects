@@ -12,7 +12,7 @@ This can be emotes from Twitch/Discord, text, ASCII conversion and gifs.
 ## Finished projects
 ___
 
-### ..::A custom tailored DBMS (Database Management System) for a small company::..
+### ..::A custom tailored CRUD app for a small company::..
 
   **Version** 2.0 sold! Here's some pictures
 
